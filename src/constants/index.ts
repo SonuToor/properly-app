@@ -1,0 +1,3 @@
+export const MIN_PRICE_FILTER = 500000
+export const MAX_PRICE_FILTER = 10000000
+export const MIN_SEARCH_LENGTH = 2
